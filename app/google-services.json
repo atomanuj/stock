@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "721341160984",
+    "firebase_url": "https://check1-87d06.firebaseio.com",
+    "project_id": "check1-87d06",
+    "storage_bucket": "check1-87d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721341160984:android:70ff9e4ff5e1b4300dad6d",
+        "android_client_info": {
+          "package_name": "com.abc.atomstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721341160984-gagu05g45ij8rt2d8h9lh1egdbt4lcim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.atomstock",
+            "certificate_hash": "cecbafbe21ec30de66fcfb5e5b357def59d093d2"
+          }
+        },
+        {
+          "client_id": "721341160984-l59hqgp3quo0lfq78v7vonpi5oh4vpcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZNA69gZDJuaoFnQUqBVbXqPksvjDzBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721341160984-l59hqgp3quo0lfq78v7vonpi5oh4vpcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721341160984:android:0fb3d5e45cc0da760dad6d",
+        "android_client_info": {
+          "package_name": "com.abc.check1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721341160984-l59hqgp3quo0lfq78v7vonpi5oh4vpcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZNA69gZDJuaoFnQUqBVbXqPksvjDzBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721341160984-l59hqgp3quo0lfq78v7vonpi5oh4vpcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
